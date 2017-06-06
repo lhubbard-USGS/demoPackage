@@ -1,7 +1,7 @@
 Package: demoPackage
 Type: Package
 Title: Nothing, it's silly
-Version: 0.1.0
+Version: 0.0.1
 Authors@R: c(person("Joe", "Developer", role = c("aut", "cre"),
                      email = "Joe.Developer@some.domain.net"),
               person("Pat", "Developer", role = "aut"),
